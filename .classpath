@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar" sourcepath="M2_REPO/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar" sourcepath="M2_REPO/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/cloud/spring-cloud-function-adapter-gcp/4.0.0-SNAPSHOT/spring-cloud-function-adapter-gcp-4.0.0-SNAPSHOT.jar" sourcepath="M2_REPO/org/springframework/cloud/spring-cloud-function-adapter-gcp/4.0.0-SNAPSHOT/spring-cloud-function-adapter-gcp-4.0.0-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/google/cloud/functions/functions-framework-api/1.0.3/functions-framework-api-1.0.3.jar" sourcepath="M2_REPO/com/google/cloud/functions/functions-framework-api/1.0.3/functions-framework-api-1.0.3-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/cloudevents/cloudevents-api/2.0.0-milestone4/cloudevents-api-2.0.0-milestone4.jar" sourcepath="M2_REPO/io/cloudevents/cloudevents-api/2.0.0-milestone4/cloudevents-api-2.0.0-milestone4-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/google/code/gson/gson/2.9.1/gson-2.9.1.jar" sourcepath="M2_REPO/com/google/code/gson/gson/2.9.1/gson-2.9.1-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/cloud/spring-cloud-function-context/4.0.0-SNAPSHOT/spring-cloud-function-context-4.0.0-SNAPSHOT.jar" sourcepath="M2_REPO/org/springframework/cloud/spring-cloud-function-context/4.0.0-SNAPSHOT/spring-cloud-function-context-4.0.0-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/net/jodah/typetools/0.6.2/typetools-0.6.2.jar" sourcepath="M2_REPO/net/jodah/typetools/0.6.2/typetools-0.6.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/boot/spring-boot-autoconfigure/3.0.0-SNAPSHOT/spring-boot-autoconfigure-3.0.0-SNAPSHOT.jar" sourcepath="M2_REPO/org/springframework/boot/spring-boot-autoconfigure/3.0.0-SNAPSHOT/spring-boot-autoconfigure-3.0.0-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/boot/spring-boot/3.0.0-SNAPSHOT/spring-boot-3.0.0-SNAPSHOT.jar" sourcepath="M2_REPO/org/springframework/boot/spring-boot/3.0.0-SNAPSHOT/spring-boot-3.0.0-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-core/6.0.0-M6/spring-core-6.0.0-M6.jar" sourcepath="M2_REPO/org/springframework/spring-core/6.0.0-M6/spring-core-6.0.0-M6-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-jcl/6.0.0-M6/spring-jcl-6.0.0-M6.jar" sourcepath="M2_REPO/org/springframework/spring-jcl/6.0.0-M6/spring-jcl-6.0.0-M6-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-context/6.0.0-M6/spring-context-6.0.0-M6.jar" sourcepath="M2_REPO/org/springframework/spring-context/6.0.0-M6/spring-context-6.0.0-M6-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-aop/6.0.0-M6/spring-aop-6.0.0-M6.jar" sourcepath="M2_REPO/org/springframework/spring-aop/6.0.0-M6/spring-aop-6.0.0-M6-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-beans/6.0.0-M6/spring-beans-6.0.0-M6.jar" sourcepath="M2_REPO/org/springframework/spring-beans/6.0.0-M6/spring-beans-6.0.0-M6-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-expression/6.0.0-M6/spring-expression-6.0.0-M6.jar" sourcepath="M2_REPO/org/springframework/spring-expression/6.0.0-M6/spring-expression-6.0.0-M6-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/cloud/spring-cloud-function-core/4.0.0-SNAPSHOT/spring-cloud-function-core-4.0.0-SNAPSHOT.jar" sourcepath="M2_REPO/org/springframework/cloud/spring-cloud-function-core/4.0.0-SNAPSHOT/spring-cloud-function-core-4.0.0-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/projectreactor/reactor-core/3.5.0-M6/reactor-core-3.5.0-M6.jar" sourcepath="M2_REPO/io/projectreactor/reactor-core/3.5.0-M6/reactor-core-3.5.0-M6-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/reactivestreams/reactive-streams/1.0.4/reactive-streams-1.0.4.jar" sourcepath="M2_REPO/org/reactivestreams/reactive-streams/1.0.4/reactive-streams-1.0.4-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-messaging/6.0.0-M6/spring-messaging-6.0.0-M6.jar" sourcepath="M2_REPO/org/springframework/spring-messaging/6.0.0-M6/spring-messaging-6.0.0-M6-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-databind/2.13.4/jackson-databind-2.13.4.jar" sourcepath="M2_REPO/com/fasterxml/jackson/core/jackson-databind/2.13.4/jackson-databind-2.13.4-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-annotations/2.13.4/jackson-annotations-2.13.4.jar" sourcepath="M2_REPO/com/fasterxml/jackson/core/jackson-annotations/2.13.4/jackson-annotations-2.13.4-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-core/2.13.4/jackson-core-2.13.4.jar" sourcepath="M2_REPO/com/fasterxml/jackson/core/jackson-core/2.13.4/jackson-core-2.13.4-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/boot/spring-boot-loader-tools/3.0.0-SNAPSHOT/spring-boot-loader-tools-3.0.0-SNAPSHOT.jar" sourcepath="M2_REPO/org/springframework/boot/spring-boot-loader-tools/3.0.0-SNAPSHOT/spring-boot-loader-tools-3.0.0-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar" sourcepath="M2_REPO/org/apache/commons/commons-compress/1.21/commons-compress-1.21-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/boot/spring-boot-loader/3.0.0-SNAPSHOT/spring-boot-loader-3.0.0-SNAPSHOT.jar" sourcepath="M2_REPO/org/springframework/boot/spring-boot-loader/3.0.0-SNAPSHOT/spring-boot-loader-3.0.0-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-web/6.0.0-M6/spring-web-6.0.0-M6.jar" sourcepath="M2_REPO/org/springframework/spring-web/6.0.0-M6/spring-web-6.0.0-M6-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/micrometer/micrometer-observation/1.10.0-M6/micrometer-observation-1.10.0-M6.jar" sourcepath="M2_REPO/io/micrometer/micrometer-observation/1.10.0-M6/micrometer-observation-1.10.0-M6-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/micrometer/micrometer-commons/1.10.0-M6/micrometer-commons-1.10.0-M6.jar" sourcepath="M2_REPO/io/micrometer/micrometer-commons/1.10.0-M6/micrometer-commons-1.10.0-M6-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/boot/spring-boot-test/3.0.0-SNAPSHOT/spring-boot-test-3.0.0-SNAPSHOT.jar" sourcepath="M2_REPO/org/springframework/boot/spring-boot-test/3.0.0-SNAPSHOT/spring-boot-test-3.0.0-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/junit/jupiter/junit-jupiter/5.9.0/junit-jupiter-5.9.0.jar" sourcepath="M2_REPO/org/junit/jupiter/junit-jupiter/5.9.0/junit-jupiter-5.9.0-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/junit/jupiter/junit-jupiter-api/5.9.0/junit-jupiter-api-5.9.0.jar" sourcepath="M2_REPO/org/junit/jupiter/junit-jupiter-api/5.9.0/junit-jupiter-api-5.9.0-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar" sourcepath="M2_REPO/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/junit/platform/junit-platform-commons/1.9.0/junit-platform-commons-1.9.0.jar" sourcepath="M2_REPO/org/junit/platform/junit-platform-commons/1.9.0/junit-platform-commons-1.9.0-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar" sourcepath="M2_REPO/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/junit/jupiter/junit-jupiter-params/5.9.0/junit-jupiter-params-5.9.0.jar" sourcepath="M2_REPO/org/junit/jupiter/junit-jupiter-params/5.9.0/junit-jupiter-params-5.9.0-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/junit/jupiter/junit-jupiter-engine/5.9.0/junit-jupiter-engine-5.9.0.jar" sourcepath="M2_REPO/org/junit/jupiter/junit-jupiter-engine/5.9.0/junit-jupiter-engine-5.9.0-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/junit/platform/junit-platform-engine/1.9.0/junit-platform-engine-1.9.0.jar" sourcepath="M2_REPO/org/junit/platform/junit-platform-engine/1.9.0/junit-platform-engine-1.9.0-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/assertj/assertj-core/3.23.1/assertj-core-3.23.1.jar" sourcepath="M2_REPO/org/assertj/assertj-core/3.23.1/assertj-core-3.23.1-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/net/bytebuddy/byte-buddy/1.12.16/byte-buddy-1.12.16.jar" sourcepath="M2_REPO/net/bytebuddy/byte-buddy/1.12.16/byte-buddy-1.12.16-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/google/cloud/functions/invoker/java-function-invoker/1.0.0-alpha-2-rc5/java-function-invoker-1.0.0-alpha-2-rc5.jar" sourcepath="M2_REPO/com/google/cloud/functions/invoker/java-function-invoker/1.0.0-alpha-2-rc5/java-function-invoker-1.0.0-alpha-2-rc5-sources.jar"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
